@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1548530775 source:c:\users\admin parents\desktop\echec3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1547055102 source:f:\prog\echec3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
